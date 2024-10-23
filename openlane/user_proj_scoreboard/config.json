@@ -24,8 +24,6 @@
     "RUN_HEURISTIC_DIODE_INSERTION": 1,
     "HEURISTIC_ANTENNA_THRESHOLD": 110,    
     "GRT_REPAIR_ANTENNAS": 1,
-    "DECAP_CELL": "sky130_fd_sc_hd__decap_3",
-    "FILL_CELL": "sky130_fd_sc_hd__fill_2 sky130_fd_sc_hd__fill_1",
     "VDD_NETS": [
         "vccd1"
     ],
